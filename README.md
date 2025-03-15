@@ -3,6 +3,7 @@
 ## 📖 Descripción  
 Este proyecto implementa **web scraping con Selenium en Python** para extraer información de carnés universitarios desde la página oficial de la **Universidad Nacional Mayor de San Marcos (UNMSM)**:  
 🔗 [websecgen.unmsm.edu.pe/carne/carne.aspx](http://websecgen.unmsm.edu.pe/carne/carne.aspx)  
+![image](https://github.com/user-attachments/assets/7980fcf4-bcb1-4dd8-a2dc-e9f6ae8ff3ee)
 
 El script automatiza la extracción de datos de estudiantes de la **Facultad de Ingeniería de Sistemas e Informática (Base 22)**, obteniendo información como:  
 - ✔ **Código de alumno**  

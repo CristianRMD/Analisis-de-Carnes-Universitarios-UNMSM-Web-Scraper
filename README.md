@@ -26,5 +26,5 @@ Los datos extraídos se convierten en **CSV** y posteriormente se analizan en **
 
 ### 1️⃣ Clonar el repositorio  
 ```bash
-git clone https://github.com/tu-usuario/unmsm-carne-webscraper.git
+git clone https://github.com/CristianRMD/unmsm-carne-webscraper.git
 cd unmsm-carne-webscraper
